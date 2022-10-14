@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sujaysaha26
 - 👀 Learning Data Structure and Algorithms, love to code in Python. Also interested in HTML, CSS, and JavaScript...
-- 🌱 I’m currently learning in College, but my YouTube is my Priority.
+- 🌱 I’m currently learning in College, but mainly learn from YouTube.
 - 📫 Here is my website :- https://www.codewithsujay.in, and even you can mail me on 'sujaysaha857@gmail.com' to contact me.
 
 <!---
