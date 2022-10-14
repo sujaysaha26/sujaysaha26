@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sujaysaha26
-- 👀 I’m interested in JavaScript, React, Python(for Django and Data Structure and Algorithms[Learning]).
+- 👀 Learning Data Structure and Algorithms, love to code in Python. Also interested in HTML, CSS, and JavaScript...
 - 🌱 I’m currently learning in College, but my YouTube is my Priority.
 - 📫 Here is my website :- https://www.codewithsujay.in, and even you can mail me on 'sujaysaha857@gmail.com' to contact me.
 
